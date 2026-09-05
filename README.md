@@ -2,42 +2,42 @@
 
 
 
-# [Project Name] 🎯
+# College Buddy🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Random Guys
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Arjun Raj - Cusat,SOE
+- Member 2: Abiraj - Cusat,SOE
 
 ### Project Description
-[2-3 lines about what your project does]
+College Buddy is an unnecessarily advanced over engineered assistant that analyse everyday student problems like Professor Mood,Sleepiness,Homework Excuses,Backpack weight and a Memotional Note.It combines,real ionputs,questionable confidence and completely unnecessary analysis to solve problems that nobody asked it to solve. 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+College students waste surprisingly much time making tiny, meaningless decisions every day where to sit, which pen to use, whether to attend a class, what to eat, when to study, etc.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+College Buddy is an unnecessarily over engineered college assistant that makes those completely trivial decisions for students based on random decisions.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- python3
+- React+Typescript
+- Tailwind css
+- webspeech API
+- chatgpt,Bolt ai
+- netilify
+- github.com
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
+- a laptop
+  
 ### Implementation
-For Software:
+
 # Installation
 [commands]
 
@@ -47,51 +47,45 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1468" height="740" alt="Screenshot 2026-09-05 at 06 43 45" src="https://github.com/user-attachments/assets/fd609b0f-0c76-4f76-91e5-92fcc1096020" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1470" height="825" alt="Screenshot 2026-09-05 at 06 45 15" src="https://github.com/user-attachments/assets/2dfa523e-c3b6-47d6-9cf0-dc8285ce13fb" />
+
+<img width="1469" height="742" alt="Screenshot 2026-09-05 at 06 44 16" src="https://github.com/user-attachments/assets/8f7f1434-595a-4c63-a266-b26b17a20e7b" />
+
+<img width="1468" height="740" alt="Screenshot 2026-09-05 at 06 48 19" src="https://github.com/user-attachments/assets/b2275ba8-57a3-48a3-aa90-039552985005" />
+
+<img width="1470" height="741" alt="Screenshot 2026-09-05 at 06 48 48" src="https://github.com/user-attachments/assets/ae169add-f2d9-494a-96be-13be6f318779" />
+
+<img width="1470" height="738" alt="Screenshot 2026-09-05 at 06 49 06" src="https://github.com/user-attachments/assets/232d0ca5-470b-4f39-8b1b-3a20de03c277" />
+
+
+
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
+# Screenshots 
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+<img width="1223" height="866" alt="1000184072" src="https://github.com/user-attachments/assets/d9cdf2e0-5c36-4d1b-bbb9-ab97e5ab97bc" />
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+<img width="4080" height="3072" alt="1000184076" src="https://github.com/user-attachments/assets/40ccab70-e507-4a29-b956-f7e425509b49" />
+<img width="4080" height="3072" alt="1000184075" src="https://github.com/user-attachments/assets/577c589a-9d90-45ab-9217-f2679e9a8f42" />
+<img width="4080" height="3072" alt="1000184074" src="https://github.com/user-attachments/assets/1596a6af-4ae0-43d5-a6f1-eefeb5d23ec7" />
 
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+College Buddy (main): https://effulgent-hotteok-e5ce60.netlify.app/
+
+Memotional List (sub): https://memotional-list-web-ip2b.bolt.host/
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Arjun Raj : College Buddy
+- Abiraj : Memotional List
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
